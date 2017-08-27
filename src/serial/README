@@ -1,0 +1,3 @@
+Run the BFS 
+./bfs <Graph FILE> <Source>
+./bfs small.gr 1
