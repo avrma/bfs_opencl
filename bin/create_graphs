@@ -1,0 +1,15 @@
+~/GTGraphs/GTgraph/R-MAT/GTgraph-rmat -n 10000 -m  20000 -o test/10000_20000.gr
+~/GTGraphs/GTgraph/R-MAT/GTgraph-rmat -n 10000 -m  40000 -o test/10000_40000.gr
+~/GTGraphs/GTgraph/R-MAT/GTgraph-rmat -n 10000 -m  80000 -o test/10000_80000.gr
+~/GTGraphs/GTgraph/R-MAT/GTgraph-rmat -n 10000 -m 160000 -o test/10000_160000.gr
+~/GTGraphs/GTgraph/R-MAT/GTgraph-rmat -n 10000 -m 640000 -o test/10000_640000.gr
+~/GTGraphs/GTgraph/R-MAT/GTgraph-rmat -n 40000 -m  80000 -o test/40000_80000.gr
+~/GTGraphs/GTgraph/R-MAT/GTgraph-rmat -n 40000 -m 160000 -o test/40000_160000.gr
+~/GTGraphs/GTgraph/R-MAT/GTgraph-rmat -n 40000 -m 320000 -o test/40000_320000.gr
+~/GTGraphs/GTgraph/R-MAT/GTgraph-rmat -n 40000 -m 640000 -o test/40000_640000.gr
+~/GTGraphs/GTgraph/R-MAT/GTgraph-rmat -n 40000 -m 960000 -o test/40000_960000.gr
+~/GTGraphs/GTgraph/R-MAT/GTgraph-rmat -n 90000 -m 1000000   -o test/90000_1000000.gr
+~/GTGraphs/GTgraph/R-MAT/GTgraph-rmat -n 90000 -m 4000000   -o test/90000_4000000.gr
+~/GTGraphs/GTgraph/R-MAT/GTgraph-rmat -n 90000 -m 8000000   -o test/90000_8000000.gr
+~/GTGraphs/GTgraph/R-MAT/GTgraph-rmat -n 90000 -m 16000000  -o test/90000_16000000.gr
+~/GTGraphs/GTgraph/R-MAT/GTgraph-rmat -n 90000 -m 641000000 -o test/90000_641000000.gr
